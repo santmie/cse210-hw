@@ -32,6 +32,7 @@ class Program
                 letter ="F";
             }
 
+        // stretch challenge
         int remainder = grade % 10;
         string sign = "";
 
