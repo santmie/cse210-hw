@@ -1,0 +1,4 @@
+900
+SimpleGoal:Work with the missionaries,Set schedule to work with the missionaries,100,True
+EternalGoal:Pray Always,Pray often,50
+ChecklistGoal:Go to the temple twice a month,Perform any sacred ordinances,550,True,500,3,3
