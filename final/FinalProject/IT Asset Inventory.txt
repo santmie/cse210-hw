@@ -1,0 +1,11 @@
+Total Laptop,Total CPU,Total Monitor
+12,14,17
+Asset Name,Asset Type,Requested Quantity
+Laptop,Laptop type A,2
+Laptop,Laptop type B,3
+CPU,CPU Type 1,10
+Monitor,Monitor type A,15
+Laptop,Laptop type C,4
+Laptop,Laptop type D,3
+Monitor,Monitor type B,2
+CPU,CPU Type 2,4
