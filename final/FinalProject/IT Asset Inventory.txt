@@ -1,11 +1,32 @@
-Total Laptop,Total CPU,Total Monitor
-12,14,17
+Total Laptop,Total CPU,Total Monitor,Total Headset,Total Webcam,Total Mouse,Total Keyboard,Total Internet Connectivity
+11,14,10,6,7,8,4,12
 Asset Name,Asset Type,Requested Quantity
-Laptop,Laptop type A,2
-Laptop,Laptop type B,3
-CPU,CPU Type 1,10
-Monitor,Monitor type A,15
-Laptop,Laptop type C,4
-Laptop,Laptop type D,3
-Monitor,Monitor type B,2
-CPU,CPU Type 2,4
+Laptop,Standard,1,i5,16G,256GB
+CPU,Non Standard,2,i7,32G,500GB
+Monitor,Dual Monitor,3,21.5
+Headset,QD,4
+Mouse,Wireless,6
+Internet Connectivity,Wireless (Wi-Fi),8
+CPU,Standard,2,i5,16G,256GB
+Laptop,Standard,2,i5,16G,256GB
+Monitor,Dual Monitor,3,21.5
+Webcam,Wireless,3
+CPU,Macmini-Care,2,M1 Chipset,32G,500GB
+CPU,Macmini-RCC,2,M1 Chipset,16G,256GB
+CPU,iMac,2,M1 Chipset,32G,500GB
+Laptop,Macbook Pro,2,M1 Chipset,16G,256GB
+Laptop,Macbook Air,2,M1 Chipset,32G,500GB
+Laptop,Standard,2,i5,16G,256GB
+Laptop,Non Standard,2,i7,32G,500GB
+CPU,Standard,2,i5,16G,256GB
+CPU,Non Standard,2,i7,32G,500GB
+Monitor,Single Monitor,2,19
+Monitor,Dual Monitor,2,21.5
+Headset,QD,2
+Webcam,USB,2
+Webcam,Wireless,2
+Mouse,USB,2
+Keyboard,USB,2
+Keyboard,Wireless,2
+Internet Connectivity,Wired LAN,2
+Internet Connectivity,Wireless (Wi-Fi),2
