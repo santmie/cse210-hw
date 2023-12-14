@@ -1,5 +1,5 @@
 Total Laptop,Total CPU,Total Monitor,Total Headset,Total Webcam,Total Mouse,Total Keyboard,Total Internet Connectivity
-13,14,10,6,7,8,4,12
+13,16,10,6,7,8,4,12
 Asset Name,Asset Type,Requested Quantity
 Laptop,Standard,1,i5,16G,256GB
 CPU,Non Standard,2,i7,32G,500GB
@@ -31,3 +31,4 @@ Keyboard,Wireless,2
 Internet Connectivity,Wired LAN,2
 Internet Connectivity,Wireless (Wi-Fi),2
 Laptop,Non Standard,2,i7,32G,500GB
+CPU,Non Standard,2,i7,32G,500GB
